@@ -1,0 +1,1 @@
+WHS-Queue is use to manage virtual queue line. It can make queue card automatically.
